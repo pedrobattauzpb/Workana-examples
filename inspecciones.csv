@@ -1,0 +1,151 @@
+Fecha,Sector_Hospital,Equipo_Medico,Estado_Actual,Nivel_Bateria
+2023-11-22,Terapia Intensiva,Máquina de Anestesia,Operativo,84
+2023-03-09,Rayos X,Máquina de Anestesia,Operativo,71
+2023-06-27,Internación,Bomba de Infusión,Operativo,97
+2023-10-12,Internación,Respirador,Operativo,99
+2023-06-09,Quirófano,Respirador,Operativo,74
+2023-10-03,Guardia,Bomba de Infusión,Operativo,73
+2023-05-05,Internación,Ecógrafo,Operativo,70
+2023-11-15,Internación,Respirador,Mantenimiento,96
+2023-05-01,Internación,Respirador,Mantenimiento,45
+2023-01-11,Quirófano,Monitor Multiparamétrico,Mantenimiento,21
+2023-12-20,Rayos X,Desconocido,Operativo,77
+2023-08-23,Laboratorio,Máquina de Anestesia,Operativo,84
+2023-08-30,Rayos X,Máquina de Anestesia,Operativo,74
+2023-12-24,Laboratorio,Monitor Multiparamétrico,Operativo,94
+2023-02-11,Rayos X,Respirador,Operativo,80
+2023-09-10,Terapia Intensiva,Respirador,Operativo,75
+2023-06-05,Rayos X,Desfibrilador,Critico,17
+2023-07-10,Terapia Intensiva,Desfibrilador,Operativo,93
+2023-07-08,Laboratorio,Ecógrafo,Operativo,88
+2023-03-23,Guardia,Respirador,Operativo,100
+2023-02-26,Guardia,Monitor Multiparamétrico,Operativo,88
+2023-10-09,Terapia Intensiva,Respirador,Operativo,70
+2023-06-09,Laboratorio,Monitor Multiparamétrico,Operativo,88
+2023-03-19,Internación,Monitor Multiparamétrico,Operativo,82
+2023-05-22,Laboratorio,Máquina de Anestesia,Operativo,70
+2023-05-07,Laboratorio,Respirador,Operativo,79
+2023-07-13,,Bomba de Infusión,Operativo,77
+2023-06-17,Laboratorio,Máquina de Anestesia,Operativo,82
+2023-10-19,Laboratorio,Bomba de Infusión,Operativo,Baja
+2023-10-14,Guardia,Bomba de Infusión,Operativo,80
+2023-10-25,Guardia,Desfibrilador,Operativo,89
+2023-03-01,Desconocido,Monitor Multiparamétrico,Operativo,71
+2023-10-19,Internación,Ecógrafo,Operativo,90
+2023-04-06,Laboratorio,Desfibrilador,Operativo,80
+2023-09-14,Laboratorio,Respirador,Operativo,84
+2023-06-09,Laboratorio,Monitor Multiparamétrico,Operativo,88
+2023-01-20,Rayos X,Monitor Multiparamétrico,Mantenimiento,78
+2023-06-03,Quirófano,Ecógrafo,Operativo,76
+2023-12-02,Internación,Respirador,Operativo,99
+2023-09-07,Internación,Máquina de Anestesia,Operativo,93
+2023-12-13,Quirófano,Máquina de Anestesia,Operativo,74
+2023-05-01,Guardia,Desfibrilador,Operativo,74
+2023-08-25,Terapia Intensiva,Respirador,Operativo,88
+2023-11-02,Rayos X,Monitor Multiparamétrico,Operativo,76
+2023-03-27,Guardia,Monitor Multiparamétrico,Operativo,91
+2023-12-19,Terapia Intensiva,Máquina de Anestesia,Operativo,87
+2023-02-17,Guardia,Desfibrilador,Operativo,94
+2023-12-18,Rayos X,Ecógrafo,Mantenimiento,20
+2023-09-11,Guardia,Máquina de Anestesia,Operativo,77
+2023-07-08,Quirófano,Desfibrilador,Operativo,95
+2023-07-02,Guardia,Desfibrilador,Mantenimiento,53
+2023-07-26,Terapia Intensiva,Ecógrafo,Operativo,75
+2023-07-26,Quirófano,Máquina de Anestesia,Operativo,76
+2023-09-10,Internación,Desfibrilador,Operativo,71
+2023-11-22,Rayos X,Máquina de Anestesia,,75
+2023-11-11,Rayos X,Monitor Multiparamétrico,Operativo,90
+2023-09-01,Internación,Respirador,Operativo,
+2023-12-02,Terapia Intensiva,Ecógrafo,Critico,0
+2023-06-12,Internación,Bomba de Infusión,Operativo,71
+2023-09-12,Internación,Ecógrafo,Critico,26
+2023-01-16,Quirófano,Ecógrafo,Operativo,72
+2023-02-07,Rayos X,Desfibrilador,Operativo,83
+2023-11-11,Terapia Intensiva,Ecógrafo,Operativo,91
+2023-09-06,Internación,Respirador,Critico,5
+2023-01-26,Laboratorio,Ecógrafo,Operativo,87
+2023-06-07,Rayos X,Desfibrilador,Operativo,98
+2023-10-21,Internación,Respirador,Operativo,76
+2023-03-25,Terapia Intensiva,Respirador,Operativo,70
+Fecha Invalida,Guardia,Respirador,Mantenimiento,69
+2023-09-16,Quirófano,Ecógrafo,,87
+2023-02-28,Laboratorio,Bomba de Infusión,Mantenimiento,78
+2023-07-01,Quirófano,Ecógrafo,Critico,25
+2023-09-03,Quirófano,Desfibrilador,Critico,12
+2023-10-12,Guardia,Respirador,Mantenimiento,75
+2023-01-03,Rayos X,Ecógrafo,Operativo,89
+2023-04-01,Internación,Desfibrilador,Operativo,89
+2023-04-25,Quirófano,Ecógrafo,Operativo,87
+2023-11-20,Rayos X,Monitor Multiparamétrico,Mantenimiento,37
+2023-09-14,Quirófano,Ecógrafo,Mantenimiento,63
+2023-10-25,Internación,Monitor Multiparamétrico,Operativo,82
+2023-10-28,Rayos X,Desfibrilador,Mantenimiento,88
+2023-08-25,Rayos X,Bomba de Infusión,Operativo,76
+2023-10-13,Laboratorio,Bomba de Infusión,Operativo,92
+2023-08-08,Rayos X,Respirador,Operativo,77
+2023-02-03,Internación,Desfibrilador,Critico,23
+2023-10-13,Rayos X,Bomba de Infusión,Mantenimiento,32
+2023-03-08,Laboratorio,Monitor Multiparamétrico,Operativo,87
+2023-12-21,Internación,Desfibrilador,Mantenimiento,43
+2023-05-28,Quirófano,Desconocido,Critico,20
+2023-03-06,Terapia Intensiva,Desfibrilador,Operativo,72
+2023-11-19,Guardia,Máquina de Anestesia,Operativo,100
+2023-05-01,Terapia Intensiva,Monitor Multiparamétrico,Critico,29
+2023-11-17,Quirófano,Desfibrilador,Operativo,84
+2023-11-30,Laboratorio,Máquina de Anestesia,Operativo,84
+2023-06-22,Guardia,Desfibrilador,Operativo,91
+2023-08-15,Internación,Bomba de Infusión,Operativo,95
+2023-06-05,Quirófano,Monitor Multiparamétrico,Operativo,72
+2023-03-31,Guardia,Máquina de Anestesia,Operativo,71
+2023-01-13,Terapia Intensiva,Respirador,Operativo,96
+2023-02-06,Terapia Intensiva,Máquina de Anestesia,Operativo,93
+2023-09-24,Quirófano,Desfibrilador,Operativo,81
+2023-04-18,Terapia Intensiva,Desfibrilador,Operativo,100
+2023-11-03,Internación,Respirador,Operativo,94
+2023-08-09,Rayos X,Respirador,Operativo,71
+2023-01-10,Internación,Desfibrilador,Operativo,83
+2023-03-02,Terapia Intensiva,Desfibrilador,Mantenimiento,47
+2023-01-31,Laboratorio,Monitor Multiparamétrico,Operativo,71
+2023-09-20,Guardia,Máquina de Anestesia,Operativo,93
+2023-02-27,Guardia,Desfibrilador,Operativo,79
+2023-01-11,Guardia,Máquina de Anestesia,Operativo,97
+2024-01-01,Laboratorio,Máquina de Anestesia,Mantenimiento,77
+2023-04-19,Desconocido,Máquina de Anestesia,Operativo,79
+2023-11-30,Laboratorio,Monitor Multiparamétrico,Critico,14
+2023-02-04,Laboratorio,Respirador,Operativo,70
+2023-05-16,Quirófano,Desfibrilador,Operativo,76
+2023-10-05,Guardia,Monitor Multiparamétrico,Critico,21
+2023-05-25,Internación,Máquina de Anestesia,Operativo,99
+2023-05-31,Terapia Intensiva,Máquina de Anestesia,Operativo,76
+2023-12-19,Quirófano,Bomba de Infusión,Mantenimiento,47
+2023-09-06,Internación,Máquina de Anestesia,Operativo,71
+2023-12-05,Quirófano,Monitor Multiparamétrico,Operativo,98
+Fecha Invalida,Laboratorio,Respirador,Operativo,84
+2023-11-19,Guardia,Bomba de Infusión,Operativo,80
+2023-10-28,Rayos X,Máquina de Anestesia,Operativo,81
+2023-09-29,Terapia Intensiva,Bomba de Infusión,Critico,1
+2023-09-19,Laboratorio,Respirador,Operativo,99
+2023-12-24,Guardia,Ecógrafo,Operativo,88
+2023-08-28,Rayos X,Ecógrafo,Critico,26
+2023-02-03,Quirófano,Ecógrafo,Mantenimiento,31
+2023-12-15,Laboratorio,Respirador,Operativo,99
+2023-12-02,Internación,Respirador,Operativo,87
+2023-11-09,Terapia Intensiva,,Operativo,85
+2023-05-03,Quirófano,Respirador,Operativo,79
+2023-05-26,Rayos X,Bomba de Infusión,Operativo,79
+2023-08-13,Terapia Intensiva,Respirador,Operativo,74
+2023-05-23,Rayos X,Bomba de Infusión,Operativo,87
+2023-04-20,Guardia,Bomba de Infusión,Operativo,75
+2023-08-11,Guardia,Ecógrafo,Mantenimiento,36
+2023-02-28,Quirófano,Desfibrilador,Operativo,99
+2023-11-03,Guardia,Respirador,Operativo,81
+2023-06-09,Rayos X,Monitor Multiparamétrico,Operativo,77
+2023-02-16,Terapia Intensiva,Bomba de Infusión,Operativo,93
+2023-11-25,Terapia Intensiva,Monitor Multiparamétrico,Critico,21
+2023-06-28,Laboratorio,Bomba de Infusión,Operativo,70
+2023-01-13,Laboratorio,Respirador,Operativo,81
+2023-01-02,Internación,Respirador,Critico,8
+2023-11-15,Internación,Respirador,Operativo,85
+2023-09-25,Quirófano,Respirador,Operativo,77
+2023-02-03,Guardia,Bomba de Infusión,Mantenimiento,61
+2023-01-06,Rayos X,Máquina de Anestesia,Operativo,94
